@@ -1,0 +1,5 @@
+1. Open index.html for the customer website.
+2. Click Admin Panel and use username: admin, password: admin123.
+3. For GitHub Pages, keep index.html at repository root and publish main / (root).
+4. Python desktop_app/app.py opens the same website on the PC.
+5. Billing print uses a dedicated one-page print layout; navigation is hidden when printing.
